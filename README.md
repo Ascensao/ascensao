@@ -45,10 +45,10 @@
 | Title | Date | Tech |
 | ----- | ---- | ---- |
 | [Website Image Optimizer](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [SMTP Email Blaster](https://github.com/Ascensao/smtp-email-blaster) | 2019 | 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [Drag & Drop Text Extractor](https://github.com/Ascensao/DragDrop-TextExtractor) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| [Keystroke Injector](https://github.com/Ascensao/py_keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| [Keystroke Injector](https://github.com/Ascensao/py_keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [SARS-CoV2-Predictor](https://github.com/Ascensao/SARS-CoV2-Predicto) | 2020 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| [SMTP Email Blaster](https://github.com/Ascensao/smtp-email-blaster) | 2019 | 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [Elysium Project](https://github.com/Ascensao/elysium-project) | 2014 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  |
 
 </td></tr> </table>
