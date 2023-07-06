@@ -9,6 +9,32 @@
 
 - 📫 How to reach me **b.ascensao@gmail.com**
 
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>AI Projects</th><th>Other Projects</th></tr>
+<tr><td>
+
+| Title | Date | Tech |
+| ----- | ---- | ---- |
+| [chatGPT Voice Assistant](https://github.com/Ascensao/python_chatGPT_voice) | 2023 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [Plate Vision](https://github.com/Ascensao/plate-vision) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [PyTubeSummarizer](https://github.com/Ascensao/PyTubeSummarizer) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+</td><td>
+
+| Title | Date | Tech |
+| ----- | ---- | ---- |
+| [Website Image Optimizer](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| [SMTP Email Blaster](https://github.com/Ascensao/smtp-email-blaster) | 2019 | 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| [Drag & Drop Text Extractor](https://github.com/Ascensao/DragDrop-TextExtractor) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| [Keystroke Injector](https://github.com/Ascensao/py_keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | |
+| [SARS-CoV2-Predictor](https://github.com/Ascensao/SARS-CoV2-Predicto) | 2020 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| [Elysium Project](https://github.com/Ascensao/elysium-project) | 2014 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  |
+
+</td></tr> </table>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@aiavenue1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aiavenue1" height="30" width="40" /></a>
