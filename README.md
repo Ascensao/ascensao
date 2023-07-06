@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ascensao&label=Profile%20views&color=0e75b6&style=flat" alt="ascensao" /> </p>
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/bernardoascensao.com-red?style=flat-square">
+<a href="https://bernardoascensao.com">
+    <img src="https://img.shields.io/badge/Website-bernardoascensao.com-red?style=flat-square">
 </a>
 <a href="https://bernardoascensao.com/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=pdf">
+    <img src="https://img.shields.io/badge/Download-CV-red?style=flat-square&logo=pdf">
 </a>
 <a href="https://www.linkedin.com/in/ascensao/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
