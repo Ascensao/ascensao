@@ -5,7 +5,7 @@
 <a href="https://bernardoascensao.com">
     <img src="https://img.shields.io/badge/Website-bernardoascensao.com-red?style=flat-square">
 </a>
-<a href="https://bernardoascensao.com/Resume.pdf">
+<a href="https://bernardoascensao.com/resume.pdf">
     <img src="https://img.shields.io/badge/Download-CV-red?style=flat-square&logo=pdf">
 </a>
 <a href="https://www.linkedin.com/in/ascensao/">
