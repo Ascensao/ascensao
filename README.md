@@ -44,6 +44,7 @@
 
 | Title | Date | Tech |
 | ----- | ---- | ---- |
+| [PySnake Game](https://github.com/Ascensao/pySnake) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Website Image Optimizer](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Drag & Drop Text Extractor](https://github.com/Ascensao/DragDrop-TextExtractor) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [Keystroke Injector](https://github.com/Ascensao/py_keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
