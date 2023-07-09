@@ -48,7 +48,7 @@
 | [Website Image Optimizer - SEO Tool](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [File2Text - Text Extractor](https://github.com/Ascensao/File2Text) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [Keystroke Injector](https://github.com/Ascensao/keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [SARS-CoV2-Predictor](https://github.com/Ascensao/SARS-CoV2-Predicto) | 2020 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| [SARS-CoV2-Predictor](https://github.com/Ascensao/SARS-CoV2-Predictor) | 2020 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [SMTP Email Blaster](https://github.com/Ascensao/smtp-email-blaster) | 2019 | 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [Elysium Project](https://github.com/Ascensao/elysium-project) | 2014 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  |
 
