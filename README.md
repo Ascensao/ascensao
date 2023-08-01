@@ -44,6 +44,7 @@
 
 | Title | Date | Tech |
 | ----- | ---- | ---- |
+| [TV Series Organizer](https://github.com/Ascensao/TV-Series-Organizer | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | [PySnake Game](https://github.com/Ascensao/pySnake) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [Website Image Optimizer - SEO Tool](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [File2Text - Text Extractor](https://github.com/Ascensao/File2Text) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
