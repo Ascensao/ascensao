@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bernardo Ascensão</h1>
-<h3 align="center">A passionate software developer from Portugal.</h3>
-
+<h3 align="center">Software developer from Portugal.</h3>
+<br>
 
 * 💻 Currently working on  **Quantitative Trading** and **AI**.
 
-* 💡 Open to new investors or partnerships on my startup <a href="[https://www.youtube.com/@aiavenue1](https://quantumflowinvestments.com/)" target="blank">**Quantum Flow**<a/>
+* 💡 Open to new investors or partnerships on my startup <a href="https://quantumflowinvestments.com/" target="blank">**Quantum Flow**<a/>
 
 
 <h3 align="left">Connect with me:</h3>
