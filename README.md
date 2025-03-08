@@ -2,11 +2,9 @@
 <h3 align="center">A passionate software developer from Portugal.</h3>
 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** .
+* 💻 Currently working on  **Quantitative Trading** and **AI**.
 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 💻 Currently working on Image Classification, Detection and Segmentation.
+* 💡 Open to new investors or partnerships on my startup <a href="[https://www.youtube.com/@aiavenue1](https://quantumflowinvestments.com/)" target="blank">**Quantum Flow**<a/>
 
 
 <h3 align="left">Connect with me:</h3>
