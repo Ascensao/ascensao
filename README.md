@@ -4,7 +4,7 @@
 
 * 💻 Currently working on  **Quantitative Trading** and **AI**.
 
-* 💡 Open to new investors or partnerships on my startup <a href="https://quantumflowinvestments.com/" target="blank">**Quantum Flow**<a/>
+* 💡 Open to new investors or partnerships on my startup <a href="https://quantumflowinvestments.com/github" target="blank">**Quantum Flow**<a/>
 
 
 <h3 align="left">Connect with me:</h3>
