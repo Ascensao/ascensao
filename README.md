@@ -1,85 +1,50 @@
-<h1 align="center">Hi 👋, I'm Bernardo Ascensão</h1>
-<h3 align="center">Software developer from Portugal.</h3>
-<br>
+<img src="assets/banner.svg" alt="Bernardo Ascensão · QFI Labs" width="100%">
 
-* 💻 Currently working on  **Quantitative Trading** and **AI**.
+Founder of **[QFI Labs](https://qfi-labs.com)**. I build trading software, market data pipelines and AI tools, from the data layer to the interface. Based in Portugal.
 
-* 💡 Open to new investors or partnerships on my startup <a href="https://quantumflowinvestments.com/github" target="blank">**Quantum Flow Investments**<a/>
+### Building now
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@aiavenue1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aiavenue1" height="30" width="40" /></a>
-<br><br></p>
-
-### 🖥️ Open-Source Projects
 <table>
-<tr><th>AI Projects</th><th>Other Projects</th></tr>
-<tr><td>
+<tr>
+<td width="33%" valign="top">
+<b><a href="https://qfiterminal.com">QFI Terminal</a></b><br>
+Financial terminal for stocks, options, macro and crypto.<br><br>
+<code>live</code>
+</td>
+<td width="33%" valign="top">
+<b><a href="https://deepalphacharts.com">DeepAlpha</a></b><br>
+Order flow and footprint charts for index futures, on Windows.<br><br>
+<code>private testing</code>
+</td>
+<td width="33%" valign="top">
+<b><a href="https://qfi-labs.com">QFI Labs</a></b><br>
+Market research, language models and trading algorithms.<br><br>
+<code>research</code>
+</td>
+</tr>
+</table>
 
-| Title | Date | Tech |
-| ----- | ---- | ---- |
-| [chatGPT Voice Assistant](https://github.com/Ascensao/python_chatGPT_voice) | 2023 |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Plate Vision](https://github.com/Ascensao/plate-vision) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [PyTubeSummarizer](https://github.com/Ascensao/PyTubeSummarizer) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+### Open source
 
-</td><td>
+| Project | What it does | |
+| --- | --- | --- |
+| [Intraday Momentum Strategy](https://github.com/Ascensao/Intraday-momentum-strategy) | Replicates the paper "Beat the Market" on SPY, compares Polygon and Alpaca data and backtests the results | Python&nbsp;·&nbsp;★&nbsp;8 |
+| [ChatGPT Voice Assistant](https://github.com/Ascensao/python_chatGPT_voice) | Voice assistant built on the ChatGPT API | Python&nbsp;·&nbsp;★&nbsp;12 |
+| [Crypto Performance Tracker](https://github.com/Ascensao/crypto-performance-tracker) | Downloads crypto market data and charts comparative performance | Python |
+| [InstaReel Bulk Download](https://github.com/Ascensao/InstaReelBulkDownload) | Bulk download of Instagram Reels | Python |
+| [Plate Vision](https://github.com/Ascensao/plate-vision) | Licence plate detection with a deep-learning model | Python |
+| [Website Image Optimizer](https://github.com/Ascensao/WebsiteImageOptimizer) | Bulk WebP conversion for faster websites | Python |
 
-| Title | Date | Tech |
-| ----- | ---- | ---- |
-| [TV Series Organizer](https://github.com/Ascensao/TV-Series-Organizer) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| [PySnake Game](https://github.com/Ascensao/pySnake) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [Website Image Optimizer - SEO Tool](https://github.com/Ascensao/WebsiteImageOptimizer/) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [File2Text - Text Extractor](https://github.com/Ascensao/File2Text) | 2023 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| [Keystroke Injector](https://github.com/Ascensao/keystroke_injector) | 2023 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| [SARS-CoV2-Predictor](https://github.com/Ascensao/SARS-CoV2-Predictor) | 2020 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| [SMTP Email Blaster](https://github.com/Ascensao/smtp-email-blaster) | 2019 | 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-| [Elysium Project](https://github.com/Ascensao/elysium-project) | 2014 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  |
+### Stack
 
-</td></tr> </table>
+<img src="https://skillicons.dev/icons?i=py,rust,js,svelte,postgres,cs,linux,git" alt="Python, Rust, JavaScript, Svelte, PostgreSQL, C#, Linux, Git">
 
+### Contact
 
-<h3 align="left">Front-end Development:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Back-end Development:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-<p><br></p>
+[qfiterminal.com](https://qfiterminal.com) · [qfi-labs.com](https://qfi-labs.com) · [Instagram](https://www.instagram.com/qfiterminal/) · [X](https://x.com/qfi_terminal) · [YouTube](https://www.youtube.com/@aiavenue1)<br>
+Projects and partnerships: info@qfi-labs.com
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascensao&theme=github)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ascensao&show_icons=true&locale=en&layout=compact" alt="ascensao" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ascensao&show_icons=true&locale=en" alt="ascensao" /></p>
-
-
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/ascensao/ascensao/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ascensao/ascensao/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ascensao/ascensao/output/github-contribution-grid-snake.svg">
+</picture>
